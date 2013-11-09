@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bookback"
+    android:baselineAligned="false" >
+
+    <TextView
+        android:id="@+id/bookBtn1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/reader_text_size"
+        android:gravity="center"
+        android:text="字体设置" />
+
+    <TextView
+        android:id="@+id/bookBtn2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/reader_screen_brightness"
+        android:gravity="center"
+        android:text="黑白模式" />
+
+    <TextView
+        android:id="@+id/bookBtn3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/reader_bookmark_operation"
+        android:gravity="center"
+        android:text="书签.目录" />
+
+    <TextView
+        android:id="@+id/bookBtn4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/reader_jump_to"
+        android:gravity="center"
+        android:text="跳转" />
+ 
+
+    <TextView
+        android:id="@+id/bookBtn6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/reader_screen_brightness"
+        android:gravity="center"
+        android:text="内容查找" />
+
+    <TextView
+        android:id="@+id/bookBtn7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:drawableTop="@drawable/reader_bookmark_operation"
+        android:gravity="center"
+        android:text="设置" />
+
+</LinearLayout>

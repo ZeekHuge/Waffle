@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="0dip" >
+
+    <ImageView
+        android:id="@+id/toolpopimage"
+        android:layout_width="fill_parent"
+        android:layout_height="10dp"
+        android:contentDescription="电子书" >
+    </ImageView>
+
+</LinearLayout>

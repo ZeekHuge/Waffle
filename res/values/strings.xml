@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="empty_string"></string>
+	<!-- bookpop.xml -->
+    <string name="bookpop_size">字体</string>
+    <string name="bookpop_light">亮度</string>
+    <string name="bookpop_card">书签</string>
+    <string name="bookpop_send">跳转</string>
+    <!-- in.xml -->
+    <string name="black">主播推荐</string>
+    <string name="gray">男生推荐</string>
+    <string name="white">女生推荐</string>
+</resources>

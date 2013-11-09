@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="listview0">#ffd1d5d6</color>
+	<color name="listview1">#ffc6c9ce</color>
+	<color name="white">#ffffffff</color>
+	<color name="white2">#ffefefef</color>
+	<color name="black">#ff000000</color>
+	<color name="yellow">#ffffff00</color>
+	<color name="alpha">#00000000</color>
+	<color name="gray">#ffa9a9a9</color>
+	<color name="red">#ffff0000</color>
+	<color name="lan">#ff2a4af1</color>
+	<color name="cheng">#ffff8500</color>
+	<color name="blue">#ff68c1e5</color>
+	<color name="pink">#fff5dbdb</color>
+	<color name="zzwhite">#fff6ffff</color>
+	<color name="zzcheng">#fffe8800</color>
+    <color name="transparent">#00000000</color>
+    <color name="gold">#b89766</color>
+    
+</resources>
